@@ -64,4 +64,4 @@ StoreKeep/
 
 ## Сборка
 
-Сборка выполняется из корня командой Gradle (`assembleDebug` / `assembleRelease`). Папки `build/` и файл `local.properties` не хранятся в репозитории (см. `.gitignore`).
+Сборка выполняется из корня командой Gradle (`assembleDebug` / `assembleRelease`). Папки `build/` и файл `local.properties` не хранятся в репозитории (см. `.gitignore`). Папка с кодом может полностью вставится в Android Studio.
